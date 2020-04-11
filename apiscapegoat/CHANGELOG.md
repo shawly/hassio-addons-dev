@@ -1,1 +1,1 @@
-- Updated gitlab-ci.yml
+- Fixed config.json
