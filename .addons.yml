@@ -1,0 +1,6 @@
+channel: edge
+addons:
+  apiscapegoat:
+    repository: shawly/hassio-api-scapegoat
+    target: api-scapegoat
+    image: hassiofun/api-scapegoat-{arch}
