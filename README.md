@@ -97,10 +97,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-apiscapegoat]: https://github.com/shawly/hassio-api-scapegoat/tree/ec5ce3f
-[addon-doc-apiscapegoat]: https://github.com/shawly/hassio-api-scapegoat/blob/ec5ce3f/README.md
+[addon-apiscapegoat]: https://github.com/shawly/hassio-api-scapegoat/tree/08e489a
+[addon-doc-apiscapegoat]: https://github.com/shawly/hassio-api-scapegoat/blob/08e489a/README.md
 [apiscapegoat-issue]: https://github.com/shawly/hassio-api-scapegoat/issues
-[apiscapegoat-version-shield]: https://img.shields.io/badge/version-ec5ce3f-blue.svg
+[apiscapegoat-version-shield]: https://img.shields.io/badge/version-08e489a-blue.svg
 [apiscapegoat-pulls-shield]: https://img.shields.io/docker/pulls/hassiofun/api-scapegoat-armhf.svg
 [apiscapegoat-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [apiscapegoat-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
