@@ -1,1 +1,1 @@
-- Added readme for addon.
+- Moved api-scapegoat app to own  git repository.

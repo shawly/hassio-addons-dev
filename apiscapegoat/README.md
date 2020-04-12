@@ -28,13 +28,13 @@ This repository was created for:
 - Anybody interested in trying out upcoming add-ons or add-on features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of my add-ons:
 
 <https://github.com/shawly/hassio-addons>
 
-[docs]: https://github.com/shawly/hassio-api-scapegoat/blob/a3785d6/README.md
+[docs]: https://github.com/shawly/hassio-api-scapegoat/blob/d01b656/README.md
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-a3785d6-blue.svg
-[release]: https://github.com/shawly/hassio-api-scapegoat/tree/a3785d6
+[release-shield]: https://img.shields.io/badge/version-d01b656-blue.svg
+[release]: https://github.com/shawly/hassio-api-scapegoat/tree/d01b656
 [banner]: https://raw.githubusercontent.com/shawly/hassio-addons-dev/master/apiscapegoat/logo.png
