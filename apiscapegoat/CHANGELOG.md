@@ -1,1 +1,1 @@
-- Fixed api-scapegoat service
+- Fixed config path.
