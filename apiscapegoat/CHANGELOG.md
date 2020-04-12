@@ -1,1 +1,1 @@
-- Fixed config path
+- Added info on index. Fixed json file parsing.
