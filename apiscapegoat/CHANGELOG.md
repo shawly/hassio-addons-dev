@@ -1,1 +1,1 @@
-- Fixed config.json
+- Fixed api-scapegoat service
