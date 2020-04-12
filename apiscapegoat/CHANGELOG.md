@@ -1,1 +1,1 @@
-- Fixed typos
+- Added readme for addon.
