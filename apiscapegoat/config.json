@@ -1,6 +1,6 @@
 {
   "name": "API Scapegoat",
-  "version": "1eb2344",
+  "version": "3c16609",
   "slug": "api-scapegoat",
   "description": "API gateway with failover for REST sensors.",
   "url": "https://github.com/shawly/hassio-api-scapegoat",

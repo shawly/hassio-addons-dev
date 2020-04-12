@@ -1,1 +1,1 @@
-- Fixed config path.
+- Fixed config path
